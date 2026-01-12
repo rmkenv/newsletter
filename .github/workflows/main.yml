@@ -1,4 +1,4 @@
-xname: Daily QuantAgri Tracker Update
+name: Daily QuantAgri Tracker Update
 
 on:
   schedule:
